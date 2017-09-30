@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+fieldset{
+    width: relative;
+    background-color: silver;
+    display: inline-block;
+}
